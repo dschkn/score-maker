@@ -1,0 +1,14 @@
+Flute, 60 95;
+Oboe, 58 89;
+Clarinet, 52 92;
+Bassoon, 35 69;
+Horn, 41 69;
+Trumpet, 54 86;
+Trombone, 34 69;
+Tuba, 24 62;
+Harp, 24 104;
+Piano, 21 108;
+Violin, 55 96;
+Viola, 48 84;
+Cello, 36 84;
+Contrabass, 40 72;
