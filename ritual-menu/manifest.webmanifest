@@ -1,1 +1,20 @@
-{"name":"Ritual Menu","short_name":"Ritual","description":"Личное меню маленьких дел и приятных ритуалов","start_url":"./","scope":"./","display":"standalone","background_color":"#f1f0ec","theme_color":"#f1f0ec","orientation":"portrait-primary","lang":"ru","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Today — Minimal Tasks",
+  "short_name": "Today",
+  "description": "Минималистичный список задач на сегодня и полный список задач",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#f7f5ef",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
